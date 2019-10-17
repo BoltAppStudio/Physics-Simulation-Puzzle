@@ -7,7 +7,7 @@ Physics Based Simulation Puzzle Game Work In Progress Open Source.
 ![](https://media.giphy.com/media/fVJj6JYuQHyQ4x9dCr/giphy.gif)
 
 This is my first open source project.
-I'll be very happy if any one want to make changes improvements or used for there own project.
+I'll be very happy if any one want to make changes improvements or use it for there own project.
 
 <H2>Whats Working</H2>  
     1. You Can create primitives.<br/>
