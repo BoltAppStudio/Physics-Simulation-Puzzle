@@ -19,3 +19,7 @@ I'll be very happy if any one want to make changes improvements or use it for th
     7. You can rotate selected.<br/>
     8. You can move one object For Now (Will be Improved in next Update).<br/>
     9. Scale not Working after object created (Work in progress).<br/>
+
+
+<h2> Goals </h2>
+	Currently, there is no goal set because if anyone wants to make it interesting it will be fun.
